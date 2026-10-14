@@ -1,0 +1,505 @@
+case,policy,window,fill,fill_p05,P_fill95,cost,emerg_share,weeks,variant,setting
+Europe,SN,normal,0.9976752287960028,0.9857519451931966,0.998,1.0195860703920192,0.0,84,proportional mapping,
+Europe,SN,red_sea_onset,0.8325885639082676,0.4890893478591289,0.358,1.023858977759406,0.0,13,proportional mapping,
+Europe,SN,red_sea_established,0.816158968757591,0.6958495464648389,0.02,1.01748725053106,0.0,104,proportional mapping,
+Europe,SN,hormuz_onset,0.8164853506076427,0.4431632685243515,0.332,1.0172819225458318,0.0,13,proportional mapping,
+Europe,SN,hormuz_after_announcement,0.7855540000682204,0.385615823520691,0.248,1.0176595962651014,0.0,15,proportional mapping,
+Europe,SN,full,0.878800660768521,0.812159189652026,0.024,1.0186134223301946,0.0,232,proportional mapping,
+Europe,SR,normal,0.999989804343845,1.0,1.0,1.023573672049795,0.0,84,proportional mapping,
+Europe,SR,red_sea_onset,0.9892510911646324,0.9273634419834174,0.918,1.0223419746030096,0.0,13,proportional mapping,
+Europe,SR,red_sea_established,0.9897620407127432,0.9612849640655464,0.98,1.020848489480662,0.0,104,proportional mapping,
+Europe,SR,hormuz_onset,0.989386272412308,0.925597424390297,0.924,1.0208811178981456,0.0,13,proportional mapping,
+Europe,SR,hormuz_after_announcement,0.9842326435331492,0.905466289133206,0.908,1.020778457376926,0.0,15,proportional mapping,
+Europe,SR,full,0.992814829418483,0.9764507144646462,1.0,1.0218908282098382,0.0,232,proportional mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9983683142442722,0.989455697595068,1.0,1.0198679958751002,0.0,84,proportional mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9296056815964174,0.7027992780519257,0.604,1.0219556026941083,0.0,13,proportional mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9976510488311928,0.9870645925594962,0.998,1.0221563940198424,0.0,104,proportional mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.9982752235195506,0.993071669403772,0.992,1.0223788227432613,0.0,13,proportional mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.996204564315334,0.9853790918951764,0.972,1.0224155303196496,0.0,15,proportional mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.993741579787935,0.979658277360162,1.0,1.0213183732430495,0.0,232,proportional mapping,
+Europe,ZD,normal,0.9983811880986444,0.9903240432104607,1.0,1.0198921887317718,0.0,84,proportional mapping,
+Europe,ZD,red_sea_onset,0.946840620099772,0.7631945166631295,0.69,1.022288138978533,0.0,13,proportional mapping,
+Europe,ZD,red_sea_established,0.9976291187946384,0.9874066672968028,0.998,1.0221328427786445,0.0,104,proportional mapping,
+Europe,ZD,hormuz_onset,0.9983546666089363,0.9948111951638304,0.992,1.0224276768048517,0.0,13,proportional mapping,
+Europe,ZD,hormuz_after_announcement,0.9963039521803094,0.9852583149501536,0.974,1.022411409698269,0.0,15,proportional mapping,
+Europe,ZD,full,0.9947707683801308,0.9829554745273656,1.0,1.0213391221821575,0.0,232,proportional mapping,
+Europe,"SSA, lag 0 / delay 0",normal,0.9983811880986444,0.9903240432104607,1.0,1.0198921887317718,0.0,84,proportional mapping,
+Europe,"SSA, lag 0 / delay 0",red_sea_onset,0.946840620099772,0.7631945166631295,0.69,1.022288138978533,0.0,13,proportional mapping,
+Europe,"SSA, lag 0 / delay 0",red_sea_established,0.9976291187946384,0.9874066672968028,0.998,1.0221328427786445,0.0,104,proportional mapping,
+Europe,"SSA, lag 0 / delay 0",hormuz_onset,0.9983546666089363,0.9948111951638304,0.992,1.0224276768048517,0.0,13,proportional mapping,
+Europe,"SSA, lag 0 / delay 0",hormuz_after_announcement,0.9963039521803094,0.9852583149501536,0.974,1.022411409698269,0.0,15,proportional mapping,
+Europe,"SSA, lag 0 / delay 0",full,0.9947707683801308,0.9829554745273656,1.0,1.0213391221821575,0.0,232,proportional mapping,
+Europe,"TA, lag 0 / delay 0",normal,0.999850327657826,1.0,1.0,1.0218799077879457,0.0,84,proportional mapping,
+Europe,"TA, lag 0 / delay 0",red_sea_onset,0.9839677639749592,0.8924839604675944,0.894,1.0228899984181774,0.0,13,proportional mapping,
+Europe,"TA, lag 0 / delay 0",red_sea_established,0.9976291187946384,0.9874066672968028,0.998,1.0221328427786445,0.0,104,proportional mapping,
+Europe,"TA, lag 0 / delay 0",hormuz_onset,0.9983546666089363,0.9948111951638304,0.992,1.0224276768048517,0.0,13,proportional mapping,
+Europe,"TA, lag 0 / delay 0",hormuz_after_announcement,0.9963039521803094,0.9852583149501536,0.974,1.022411409698269,0.0,15,proportional mapping,
+Europe,"TA, lag 0 / delay 0",full,0.99749953357597,0.9904177815022736,1.0,1.0220912013126386,0.0,232,proportional mapping,
+Europe,SSA,normal,0.9983683142442722,0.989455697595068,1.0,1.0198679958751002,0.0,84,proportional mapping,
+Europe,SSA,red_sea_onset,0.9296056815964174,0.7027992780519257,0.604,1.0219556026941083,0.0,13,proportional mapping,
+Europe,SSA,red_sea_established,0.9976510488311928,0.9870645925594962,0.998,1.0221563940198424,0.0,104,proportional mapping,
+Europe,SSA,hormuz_onset,0.9982752235195506,0.993071669403772,0.992,1.0223788227432613,0.0,13,proportional mapping,
+Europe,SSA,hormuz_after_announcement,0.996204564315334,0.9853790918951764,0.972,1.0224155303196496,0.0,15,proportional mapping,
+Europe,SSA,full,0.993741579787935,0.979658277360162,1.0,1.0213183732430495,0.0,232,proportional mapping,
+Europe,TA,normal,0.9998577865385812,1.0,1.0,1.0218551819405683,0.0,84,proportional mapping,
+Europe,TA,red_sea_onset,0.9790588111933922,0.8708732941179748,0.852,1.0226731127277089,0.0,13,proportional mapping,
+Europe,TA,red_sea_established,0.9976510488311928,0.9870645925594962,0.998,1.0221563940198424,0.0,104,proportional mapping,
+Europe,TA,hormuz_onset,0.9982752235195506,0.993071669403772,0.992,1.022378822743261,0.0,13,proportional mapping,
+Europe,TA,hormuz_after_announcement,0.996204564315334,0.9853790918951764,0.972,1.0224155303196496,0.0,15,proportional mapping,
+Europe,TA,full,0.9972042721076536,0.9885620945837648,1.0,1.0220765164604155,0.0,232,proportional mapping,
+Europe,"SSA, lag 2 / delay 2",normal,0.9983882767673936,0.9896863034873834,1.0,1.019872982871211,0.0,84,proportional mapping,
+Europe,"SSA, lag 2 / delay 2",red_sea_onset,0.911287575116128,0.6503194789782155,0.556,1.0214586880735492,0.0,13,proportional mapping,
+Europe,"SSA, lag 2 / delay 2",red_sea_established,0.9977048257793822,0.987377117614899,0.998,1.022170106568851,0.0,104,proportional mapping,
+Europe,"SSA, lag 2 / delay 2",hormuz_onset,0.99825412114173,0.9942451855006812,0.992,1.0223742288228668,0.0,13,proportional mapping,
+Europe,"SSA, lag 2 / delay 2",hormuz_after_announcement,0.9960062743339488,0.985460659248164,0.97,1.0223338155973245,0.0,15,proportional mapping,
+Europe,"SSA, lag 2 / delay 2",full,0.992678418901035,0.9765427207525949,1.0,1.021292158482182,0.0,232,proportional mapping,
+Europe,"TA, lag 2 / delay 2",normal,0.999865551798542,1.0,1.0,1.0218600669583515,0.0,84,proportional mapping,
+Europe,"TA, lag 2 / delay 2",red_sea_onset,0.9735070335269792,0.8445123488301067,0.828,1.0222832896200154,0.0,13,proportional mapping,
+Europe,"TA, lag 2 / delay 2",red_sea_established,0.9977048257793822,0.987377117614899,0.998,1.022170106568851,0.0,104,proportional mapping,
+Europe,"TA, lag 2 / delay 2",hormuz_onset,0.99825412114173,0.9942451855006812,0.992,1.0223742288228668,0.0,13,proportional mapping,
+Europe,"TA, lag 2 / delay 2",hormuz_after_announcement,0.9960062743339488,0.985460659248164,0.97,1.0223338155973245,0.0,15,proportional mapping,
+Europe,"TA, lag 2 / delay 2",full,0.99688651177023,0.9879911779751408,1.0,1.0220560540977544,0.0,232,proportional mapping,
+Europe,"SSA, lag 4 / delay 4",normal,0.9983669218907923,0.9894432533347572,0.998,1.019889288789078,0.0,84,proportional mapping,
+Europe,"SSA, lag 4 / delay 4",red_sea_onset,0.8775662881723447,0.5736213166087089,0.466,1.0215993075593794,0.0,13,proportional mapping,
+Europe,"SSA, lag 4 / delay 4",red_sea_established,0.997662541789284,0.9864816827792176,0.998,1.0220500155153962,0.0,104,proportional mapping,
+Europe,"SSA, lag 4 / delay 4",hormuz_onset,0.9982046496786384,0.9929343171701968,0.99,1.0223423387021957,0.0,13,proportional mapping,
+Europe,"SSA, lag 4 / delay 4",hormuz_after_announcement,0.9957180673650232,0.9826346551494344,0.966,1.0223711826307105,0.0,15,proportional mapping,
+Europe,"SSA, lag 4 / delay 4",full,0.9906407060056326,0.9719803849000936,1.0,1.0212645667060365,0.0,232,proportional mapping,
+Europe,"TA, lag 4 / delay 4",normal,0.99985836256791,1.0,1.0,1.0218765080851295,0.0,84,proportional mapping,
+Europe,"TA, lag 4 / delay 4",red_sea_onset,0.9622593446533104,0.7938703294115012,0.774,1.0221087214581894,0.0,13,proportional mapping,
+Europe,"TA, lag 4 / delay 4",red_sea_established,0.997662541789284,0.9864816827792176,0.998,1.022121041117562,0.0,104,proportional mapping,
+Europe,"TA, lag 4 / delay 4",hormuz_onset,0.9982046496786384,0.9929343171701968,0.99,1.0223423387021957,0.0,13,proportional mapping,
+Europe,"TA, lag 4 / delay 4",hormuz_after_announcement,0.9957180673650232,0.9826346551494344,0.966,1.0223711826307105,0.0,15,proportional mapping,
+Europe,"TA, lag 4 / delay 4",full,0.9961691237624898,0.9851188985537224,1.0,1.0220395001907183,0.0,232,proportional mapping,
+Europe,TA (generic closure),normal,1.0,1.0,1.0,1.025853211361723,0.0,84,proportional mapping,
+Europe,TA (generic closure),red_sea_onset,0.9987173638375462,0.995842751608836,0.994,1.0243055726649557,0.0,13,proportional mapping,
+Europe,TA (generic closure),red_sea_established,0.9976510488311928,0.9870645925594962,0.998,1.0221563940198424,0.0,104,proportional mapping,
+Europe,TA (generic closure),hormuz_onset,0.9982752235195506,0.993071669403772,0.992,1.022378822743261,0.0,13,proportional mapping,
+Europe,TA (generic closure),hormuz_after_announcement,0.996204564315334,0.9853790918951764,0.972,1.0224155303196496,0.0,15,proportional mapping,
+Europe,TA (generic closure),full,0.9984441335819858,0.9928727393348727,1.0,1.0236134885896593,0.0,232,proportional mapping,
+Gulf,SN,normal,0.2540313469823297,0.1858731009899116,0.0,1.0665306772165204,0.0,84,proportional mapping,ample
+Gulf,SN,red_sea_onset,0.0,0.0,0.0,1.1329565133527044,0.0,13,proportional mapping,ample
+Gulf,SN,red_sea_established,0.0,0.0,0.0,1.094689741376002,0.0,104,proportional mapping,ample
+Gulf,SN,hormuz_onset,0.0,0.0,0.0,1.4086046329293958,0.0,13,proportional mapping,ample
+Gulf,SN,hormuz_after_announcement,0.0,0.0,0.0,1.4710075922199162,0.0,15,proportional mapping,ample
+Gulf,SN,full,0.0918108596892181,0.067219294175068,0.0,1.133160708518494,0.0,232,proportional mapping,ample
+Gulf,SR,normal,0.999981470814378,1.0,1.0,1.0711361573538307,0.0,84,proportional mapping,ample
+Gulf,SR,red_sea_onset,1.0,1.0,1.0,1.080618091951034,0.0,13,proportional mapping,ample
+Gulf,SR,red_sea_established,0.9999859824618522,1.0,1.0,1.071929659814525,0.0,104,proportional mapping,ample
+Gulf,SR,hormuz_onset,0.9688963254152492,0.7851829036941136,0.852,1.1237864588141973,0.0,13,proportional mapping,ample
+Gulf,SR,hormuz_after_announcement,0.9375472617788508,0.6243859585094783,0.74,1.1233117598602615,0.0,15,proportional mapping,ample
+Gulf,SR,full,0.9927988640944724,0.9631949843341968,0.982,1.0790213951037135,0.0,232,proportional mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.996882160210694,0.9856953882574728,1.0,1.062867802909755,0.0,84,proportional mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9998684676552424,1.0,1.0,1.0950542464404316,0.0,13,proportional mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9961959108014036,0.985876599344204,1.0,1.0930048823575989,0.0,104,proportional mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.3432894666004751,0.2781384768244704,0.0,1.2988124974766158,0.0,13,proportional mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.3968457734582194,0.0,15,proportional mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.8827202381178977,0.8716748859175598,0.0,1.1171048193893145,0.0,232,proportional mapping,ample
+Gulf,ZD,normal,0.9970585958072518,0.9874554634830374,1.0,1.063668155092845,0.0,84,proportional mapping,ample
+Gulf,ZD,red_sea_onset,1.0,1.0,1.0,1.0923886823395552,0.0,13,proportional mapping,ample
+Gulf,ZD,red_sea_established,0.9966253198755014,0.9871543967624202,1.0,1.0921420342717911,0.0,104,proportional mapping,ample
+Gulf,ZD,hormuz_onset,1.0,1.0,1.0,1.1440998381520389,0.0,13,proportional mapping,ample
+Gulf,ZD,hormuz_after_announcement,0.9998180541704031,1.0,1.0,1.106631390148484,0.0,15,proportional mapping,ample
+Gulf,ZD,full,0.9973884983538468,0.9922917197064428,1.0,1.086098472893872,0.0,232,proportional mapping,ample
+Gulf,"SSA, lag 0 / delay 0",normal,0.9970585958072518,0.9874554634830374,1.0,1.063668155092845,0.0,84,proportional mapping,ample
+Gulf,"SSA, lag 0 / delay 0",red_sea_onset,1.0,1.0,1.0,1.0923886823395552,0.0,13,proportional mapping,ample
+Gulf,"SSA, lag 0 / delay 0",red_sea_established,0.9967643680355311,0.9873646001659868,1.0,1.087368044989356,0.0,104,proportional mapping,ample
+Gulf,"SSA, lag 0 / delay 0",hormuz_onset,0.9987419480158868,0.9995488826443192,0.994,1.1181192224046004,0.0,13,proportional mapping,ample
+Gulf,"SSA, lag 0 / delay 0",hormuz_after_announcement,0.993832970799644,0.97017258660284,0.966,1.1309594439404975,0.0,15,proportional mapping,ample
+Gulf,"SSA, lag 0 / delay 0",full,0.996874596654332,0.9902927917220746,1.0,1.084141066552431,0.0,232,proportional mapping,ample
+Gulf,"TA, lag 0 / delay 0",normal,0.9970585958072518,0.9874554634830374,1.0,1.063668155092845,0.0,84,proportional mapping,ample
+Gulf,"TA, lag 0 / delay 0",red_sea_onset,1.0,1.0,1.0,1.0967280137590074,0.0,13,proportional mapping,ample
+Gulf,"TA, lag 0 / delay 0",red_sea_established,1.0,1.0,1.0,1.0669968145668285,0.0,104,proportional mapping,ample
+Gulf,"TA, lag 0 / delay 0",hormuz_onset,0.9853085609390146,0.8854311290125687,0.92,1.131117328259207,0.0,13,proportional mapping,ample
+Gulf,"TA, lag 0 / delay 0",hormuz_after_announcement,0.9830898210628206,0.8950503030603764,0.924,1.127478886738224,0.0,15,proportional mapping,ample
+Gulf,"TA, lag 0 / delay 0",full,0.9964142433817326,0.9826266821589495,0.992,1.0756779540192871,0.0,232,proportional mapping,ample
+Gulf,SSA,normal,0.996882160210694,0.9856953882574728,1.0,1.062867802909755,0.0,84,proportional mapping,ample
+Gulf,SSA,red_sea_onset,0.9998684676552424,1.0,1.0,1.0950542464404316,0.0,13,proportional mapping,ample
+Gulf,SSA,red_sea_established,0.9962908938426908,0.985900560762408,1.0,1.090055397665218,0.0,104,proportional mapping,ample
+Gulf,SSA,hormuz_onset,0.9999573846941529,1.0,1.0,1.1003800288895564,0.0,13,proportional mapping,ample
+Gulf,SSA,hormuz_after_announcement,0.9930628028789216,0.9643514180937732,0.968,1.1311310132198085,0.0,15,proportional mapping,ample
+Gulf,SSA,full,0.996635326960992,0.9895202502171198,1.0,1.0842019542058416,0.0,232,proportional mapping,ample
+Gulf,TA,normal,0.996882160210694,0.9856953882574728,1.0,1.062867802909755,0.0,84,proportional mapping,ample
+Gulf,TA,red_sea_onset,0.9998684676552424,1.0,1.0,1.103854323992957,0.0,13,proportional mapping,ample
+Gulf,TA,red_sea_established,1.0,1.0,1.0,1.0677744620853304,0.0,104,proportional mapping,ample
+Gulf,TA,hormuz_onset,0.9857516016144524,0.8984031566658887,0.916,1.1310497661177386,0.0,13,proportional mapping,ample
+Gulf,TA,hormuz_after_announcement,0.9830004294207038,0.8917886226070183,0.924,1.127574291195664,0.0,15,proportional mapping,ample
+Gulf,TA,full,0.9963715365996492,0.9828139343367528,0.992,1.0761311429795308,0.0,232,proportional mapping,ample
+Gulf,"SSA, lag 2 / delay 2",normal,0.996547289515216,0.9861803900137432,1.0,1.0614988264575154,0.0,84,proportional mapping,ample
+Gulf,"SSA, lag 2 / delay 2",red_sea_onset,0.999740598525818,1.0,1.0,1.0927456926326344,0.0,13,proportional mapping,ample
+Gulf,"SSA, lag 2 / delay 2",red_sea_established,0.9954494432369692,0.9825032333648946,1.0,1.08855018269069,0.0,104,proportional mapping,ample
+Gulf,"SSA, lag 2 / delay 2",hormuz_onset,0.9999983579683724,1.0,1.0,1.0966426493470307,0.0,13,proportional mapping,ample
+Gulf,"SSA, lag 2 / delay 2",hormuz_after_announcement,0.9930278100051458,0.9657736397059864,0.96,1.1314296980951153,0.0,15,proportional mapping,ample
+Gulf,"SSA, lag 2 / delay 2",full,0.9961342399814194,0.9877608251703756,1.0,1.082716055371999,0.0,232,proportional mapping,ample
+Gulf,"TA, lag 2 / delay 2",normal,0.996547289515216,0.9861803900137432,1.0,1.0614988264575154,0.0,84,proportional mapping,ample
+Gulf,"TA, lag 2 / delay 2",red_sea_onset,0.999740598525818,1.0,1.0,1.0980144966870278,0.0,13,proportional mapping,ample
+Gulf,"TA, lag 2 / delay 2",red_sea_established,1.0,1.0,1.0,1.0671743325846714,0.0,104,proportional mapping,ample
+Gulf,"TA, lag 2 / delay 2",hormuz_onset,0.9881528497335166,0.9174988662224876,0.926,1.1299602961749706,0.0,13,proportional mapping,ample
+Gulf,"TA, lag 2 / delay 2",hormuz_after_announcement,0.9847658676507974,0.9042025146420536,0.93,1.1276593548103806,0.0,15,proportional mapping,ample
+Gulf,"TA, lag 2 / delay 2",full,0.9965647436232272,0.985070407429708,0.996,1.0749970998572866,0.0,232,proportional mapping,ample
+Gulf,"SSA, lag 4 / delay 4",normal,0.9957844379049384,0.982383637352406,1.0,1.0621199599647984,0.0,84,proportional mapping,ample
+Gulf,"SSA, lag 4 / delay 4",red_sea_onset,0.9934711520809746,0.956387914049184,0.96,1.0988526083893777,0.0,13,proportional mapping,ample
+Gulf,"SSA, lag 4 / delay 4",red_sea_established,0.9915556599035368,0.9725018721650746,0.994,1.0932101928761353,0.0,104,proportional mapping,ample
+Gulf,"SSA, lag 4 / delay 4",hormuz_onset,1.0,1.0,1.0,1.106901128624823,0.0,13,proportional mapping,ample
+Gulf,"SSA, lag 4 / delay 4",hormuz_after_announcement,0.9950136968655602,0.9802975531235032,0.972,1.1216405340073736,0.0,15,proportional mapping,ample
+Gulf,"SSA, lag 4 / delay 4",full,0.9939143426689032,0.9837622137217398,1.0,1.084727831155643,0.0,232,proportional mapping,ample
+Gulf,"TA, lag 4 / delay 4",normal,0.9957844379049384,0.982383637352406,1.0,1.0621199599647984,0.0,84,proportional mapping,ample
+Gulf,"TA, lag 4 / delay 4",red_sea_onset,0.9934711520809746,0.956387914049184,0.96,1.1077754399779542,0.0,13,proportional mapping,ample
+Gulf,"TA, lag 4 / delay 4",red_sea_established,1.0,1.0,1.0,1.0687815339399185,0.0,104,proportional mapping,ample
+Gulf,"TA, lag 4 / delay 4",hormuz_onset,0.9900298248824866,0.9330697817335384,0.932,1.1292684409765834,0.0,13,proportional mapping,ample
+Gulf,"TA, lag 4 / delay 4",hormuz_after_announcement,0.9857824426146038,0.9046872360481496,0.926,1.1278205685047171,0.0,15,proportional mapping,ample
+Gulf,"TA, lag 4 / delay 4",full,0.9961509627746572,0.984572077420627,0.996,1.0764867791599002,0.0,232,proportional mapping,ample
+Gulf,TA (generic closure),normal,0.996882160210694,0.9856953882574728,1.0,1.062867802909755,0.0,84,proportional mapping,ample
+Gulf,TA (generic closure),red_sea_onset,0.9998684676552424,1.0,1.0,1.1147813571120346,0.0,13,proportional mapping,ample
+Gulf,TA (generic closure),red_sea_established,1.0,1.0,1.0,1.1042596118435055,0.0,104,proportional mapping,ample
+Gulf,TA (generic closure),hormuz_onset,0.999988152926878,1.0,1.0,1.084655470383975,0.0,13,proportional mapping,ample
+Gulf,TA (generic closure),hormuz_after_announcement,0.9679767597470096,0.8121515525779343,0.858,1.1297935595052284,0.0,15,proportional mapping,ample
+Gulf,TA (generic closure),full,0.9964567044175042,0.9828502012024094,1.0,1.0906157284654792,0.0,232,proportional mapping,ample
+Gulf,"SSA, exit on announcement",normal,0.996882160210694,0.9856953882574728,1.0,1.062867802909755,0.0,84,proportional mapping,ample
+Gulf,"SSA, exit on announcement",red_sea_onset,0.9998684676552424,1.0,1.0,1.0950542464404316,0.0,13,proportional mapping,ample
+Gulf,"SSA, exit on announcement",red_sea_established,0.9962908938426908,0.985900560762408,1.0,1.090055397665218,0.0,104,proportional mapping,ample
+Gulf,"SSA, exit on announcement",hormuz_onset,0.9999573846941529,1.0,1.0,1.1003800288895564,0.0,13,proportional mapping,ample
+Gulf,"SSA, exit on announcement",hormuz_after_announcement,0.3133146951002893,0.2616158880007373,0.0,1.2348018149854374,0.0,15,proportional mapping,ample
+Gulf,"SSA, exit on announcement",full,0.9526669084430344,0.9433070394416084,0.7,1.0909334056673494,0.0,232,proportional mapping,ample
+Gulf,"TA, exit on announcement",normal,0.996882160210694,0.9856953882574728,1.0,1.062867802909755,0.0,84,proportional mapping,ample
+Gulf,"TA, exit on announcement",red_sea_onset,0.9998684676552424,1.0,1.0,1.103854323992957,0.0,13,proportional mapping,ample
+Gulf,"TA, exit on announcement",red_sea_established,1.0,1.0,1.0,1.0677744620853304,0.0,104,proportional mapping,ample
+Gulf,"TA, exit on announcement",hormuz_onset,0.9857516016144524,0.8984031566658887,0.916,1.1310497661177386,0.0,13,proportional mapping,ample
+Gulf,"TA, exit on announcement",hormuz_after_announcement,0.3694057100181366,0.2140906306013703,0.0,1.2070654092942106,0.0,15,proportional mapping,ample
+Gulf,"TA, exit on announcement",full,0.9566753326440424,0.9398602759388563,0.842,1.0813049158040284,0.0,232,proportional mapping,ample
+Europe,SN,normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,SN,red_sea_onset,0.6908615599180523,0.3847535085482927,0.138,1.0322567811894046,0.0,13,binary mapping,
+Europe,SN,red_sea_established,0.4847676784921384,0.3197818835812946,0.0,1.0177899773546926,0.0,104,binary mapping,
+Europe,SN,hormuz_onset,0.5092891498420642,0.0828934022136003,0.028,1.0174360547016237,0.0,13,binary mapping,
+Europe,SN,hormuz_after_announcement,0.4977768265389681,0.1105409823307163,0.034,1.0166034076895278,0.0,15,binary mapping,
+Europe,SN,full,0.6815788766379706,0.5914521049421536,0.0,1.0193073438717748,0.0,232,binary mapping,
+Europe,SR,normal,1.0,1.0,1.0,1.0237361613292315,0.0,84,binary mapping,
+Europe,SR,red_sea_onset,0.947290712591536,0.7308414055506425,0.704,1.0238275026230748,0.0,13,binary mapping,
+Europe,SR,red_sea_established,0.9012776364149648,0.8019659399454525,0.2,1.019812338451921,0.0,104,binary mapping,
+Europe,SR,hormuz_onset,0.911044672377828,0.6196465902984262,0.608,1.0194972499879038,0.0,13,binary mapping,
+Europe,SR,hormuz_after_announcement,0.9065633835879322,0.5940353266710899,0.564,1.0193852390033376,0.0,15,binary mapping,
+Europe,SR,full,0.9393554083749128,0.8846814364162046,0.388,1.021430101484162,0.0,232,binary mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.796717509878447,0.5540902788850096,0.236,1.0228654886308122,0.0,13,binary mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.985173608019646,0.9694894751220864,1.0,1.0220264251722515,0.0,232,binary mapping,
+Europe,ZD,normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,ZD,red_sea_onset,0.8333089572509478,0.6244728738920767,0.272,1.0233157931874184,0.0,13,binary mapping,
+Europe,ZD,red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,ZD,hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,ZD,hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,ZD,full,0.9873022315851038,0.9730142188006702,1.0,1.0220510403688303,0.0,232,binary mapping,
+Europe,"SSA, lag 0 / delay 0",normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,"SSA, lag 0 / delay 0",red_sea_onset,0.8333089572509478,0.6244728738920767,0.272,1.0233157931874184,0.0,13,binary mapping,
+Europe,"SSA, lag 0 / delay 0",red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,"SSA, lag 0 / delay 0",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,"SSA, lag 0 / delay 0",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"SSA, lag 0 / delay 0",full,0.9873022315851038,0.9730142188006702,1.0,1.0220510403688303,0.0,232,binary mapping,
+Europe,"TA, lag 0 / delay 0",normal,0.9998900759912228,1.0,1.0,1.0217376790953958,0.0,84,binary mapping,
+Europe,"TA, lag 0 / delay 0",red_sea_onset,0.912787312789505,0.6925704078618478,0.532,1.0237038616159764,0.0,13,binary mapping,
+Europe,"TA, lag 0 / delay 0",red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,"TA, lag 0 / delay 0",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615924,0.0,13,binary mapping,
+Europe,"TA, lag 0 / delay 0",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"TA, lag 0 / delay 0",full,0.9923319068123678,0.9774925764773752,1.0,1.0227912048978918,0.0,232,binary mapping,
+Europe,SSA,normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,SSA,red_sea_onset,0.796717509878447,0.5540902788850096,0.236,1.0228654886308122,0.0,13,binary mapping,
+Europe,SSA,red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,SSA,hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,SSA,hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,SSA,full,0.985173608019646,0.9694894751220864,1.0,1.0220264251722515,0.0,232,binary mapping,
+Europe,TA,normal,0.9998900759912228,1.0,1.0,1.0217376790953958,0.0,84,binary mapping,
+Europe,TA,red_sea_onset,0.894991934307427,0.6356905875331335,0.486,1.0233150322628966,0.0,13,binary mapping,
+Europe,TA,red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,TA,hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,TA,hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,TA,full,0.9912759552809146,0.9753170437860358,1.0,1.022769831433158,0.0,232,binary mapping,
+Europe,"SSA, lag 2 / delay 2",normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,"SSA, lag 2 / delay 2",red_sea_onset,0.7610492621489692,0.4985093992398511,0.202,1.0224099706247314,0.0,13,binary mapping,
+Europe,"SSA, lag 2 / delay 2",red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,"SSA, lag 2 / delay 2",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,"SSA, lag 2 / delay 2",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"SSA, lag 2 / delay 2",full,0.9830955806766586,0.9658043626249204,1.0,1.0220015114326433,0.0,232,binary mapping,
+Europe,"TA, lag 2 / delay 2",normal,0.9998900759912228,1.0,1.0,1.0217376790953958,0.0,84,binary mapping,
+Europe,"TA, lag 2 / delay 2",red_sea_onset,0.8776146462961597,0.5976649066344865,0.452,1.0229239372497403,0.0,13,binary mapping,
+Europe,"TA, lag 2 / delay 2",red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,"TA, lag 2 / delay 2",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615924,0.0,13,binary mapping,
+Europe,"TA, lag 2 / delay 2",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"TA, lag 2 / delay 2",full,0.9902459220183796,0.9724652914456892,1.0,1.022748318285884,0.0,232,binary mapping,
+Europe,"SSA, lag 4 / delay 4",normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84,binary mapping,
+Europe,"SSA, lag 4 / delay 4",red_sea_onset,0.6908615599180523,0.3847535085482927,0.138,1.034947648499713,0.0,13,binary mapping,
+Europe,"SSA, lag 4 / delay 4",red_sea_established,0.9950106542869044,0.9774958479628664,0.996,1.0216390736136025,0.0,104,binary mapping,
+Europe,"SSA, lag 4 / delay 4",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,"SSA, lag 4 / delay 4",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"SSA, lag 4 / delay 4",full,0.9786634530383084,0.9579334266070006,0.99,1.0219528041275054,0.0,232,binary mapping,
+Europe,"TA, lag 4 / delay 4",normal,0.9998900759912228,1.0,1.0,1.0217376790953958,0.0,84,binary mapping,
+Europe,"TA, lag 4 / delay 4",red_sea_onset,0.84597578547616,0.5184464982666231,0.388,1.028430792908308,0.0,13,binary mapping,
+Europe,"TA, lag 4 / delay 4",red_sea_established,0.9950106542869044,0.9774958479628664,0.996,1.02255862405487,0.0,104,binary mapping,
+Europe,"TA, lag 4 / delay 4",hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615922,0.0,13,binary mapping,
+Europe,"TA, lag 4 / delay 4",hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,"TA, lag 4 / delay 4",full,0.9880164419171964,0.9669551451872898,1.0,1.0227059651835828,0.0,232,binary mapping,
+Europe,TA (generic closure),normal,1.0,1.0,1.0,1.025736519622913,0.0,84,binary mapping,
+Europe,TA (generic closure),red_sea_onset,0.9858736953317676,0.9159554482675342,0.9,1.02468557693317,0.0,13,binary mapping,
+Europe,TA (generic closure),red_sea_established,0.9958254541652694,0.978914116604582,0.996,1.0233868934863488,0.0,104,binary mapping,
+Europe,TA (generic closure),hormuz_onset,0.9968633154418866,0.981562152388706,0.978,1.0235460110615924,0.0,13,binary mapping,
+Europe,TA (generic closure),hormuz_after_announcement,0.995429214422785,0.9778906601659872,0.966,1.0234360023660063,0.0,15,binary mapping,
+Europe,TA (generic closure),full,0.996672196996846,0.9876930547166608,1.0,1.0242916100262005,0.0,232,binary mapping,
+Gulf,SN,normal,0.999809564042971,0.9988213535062784,1.0,1.0460059046269463,0.0,84,binary mapping,ample
+Gulf,SN,red_sea_onset,0.9998538979371004,1.0,1.0,1.0461168340781692,0.0,13,binary mapping,ample
+Gulf,SN,red_sea_established,0.9998395530402396,0.9988365939715602,1.0,1.0459809586999649,0.0,104,binary mapping,ample
+Gulf,SN,hormuz_onset,0.1913696083491246,0.1351596093655242,0.0,1.3299660572270722,0.0,13,binary mapping,ample
+Gulf,SN,hormuz_after_announcement,0.0,0.0,0.0,1.4408102652417578,0.0,15,binary mapping,ample
+Gulf,SN,full,0.8769700107250287,0.8677304142152849,0.0,1.0921210819205294,0.0,232,binary mapping,ample
+Gulf,SR,normal,0.9999932858549394,1.0,1.0,1.0680088609576246,0.0,84,binary mapping,ample
+Gulf,SR,red_sea_onset,1.0,1.0,1.0,1.0682393416719738,0.0,13,binary mapping,ample
+Gulf,SR,red_sea_established,0.9999993379682,1.0,1.0,1.067962070891398,0.0,104,binary mapping,ample
+Gulf,SR,hormuz_onset,0.9469700669292818,0.6516710433492549,0.778,1.125871210675054,0.0,13,binary mapping,ample
+Gulf,SR,hormuz_after_announcement,0.7793833058066166,0.1048767379963769,0.476,1.1277967684150794,0.0,15,binary mapping,ample
+Gulf,SR,full,0.9802161540469316,0.9174323964600724,0.846,1.0758741283041853,0.0,232,binary mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.1527001290318397,0.0983280218406192,0.0,1.29104603013093,0.0,13,binary mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.317898390178836,0.0,15,binary mapping,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.8712583126670906,0.8603964170924685,0.0,1.0790668880323429,0.0,232,binary mapping,ample
+Gulf,ZD,normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,ZD,red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,ZD,red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,ZD,hormuz_onset,0.7647437904966662,0.2144650674614483,0.372,1.1500540568732722,0.0,13,binary mapping,ample
+Gulf,ZD,hormuz_after_announcement,0.990541660930162,0.9458226137624646,0.944,1.1307370336397844,0.0,15,binary mapping,ample
+Gulf,ZD,full,0.9812010802240636,0.9447570012386876,0.92,1.0565358908079985,0.0,232,binary mapping,ample
+Gulf,"SSA, lag 0 / delay 0",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"SSA, lag 0 / delay 0",red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,"SSA, lag 0 / delay 0",red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,"SSA, lag 0 / delay 0",hormuz_onset,0.7647437904966662,0.2144650674614483,0.372,1.1500540568732722,0.0,13,binary mapping,ample
+Gulf,"SSA, lag 0 / delay 0",hormuz_after_announcement,0.990541660930162,0.9458226137624646,0.944,1.1307370336397844,0.0,15,binary mapping,ample
+Gulf,"SSA, lag 0 / delay 0",full,0.9812010802240636,0.9447570012386876,0.92,1.0565358908079985,0.0,232,binary mapping,ample
+Gulf,"TA, lag 0 / delay 0",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"TA, lag 0 / delay 0",red_sea_onset,0.998413921542144,0.99289265669664,0.996,1.064692347783368,0.0,13,binary mapping,ample
+Gulf,"TA, lag 0 / delay 0",red_sea_established,1.0,1.0,1.0,1.060968086612643,0.0,104,binary mapping,ample
+Gulf,"TA, lag 0 / delay 0",hormuz_onset,0.999079428940045,1.0,0.994,1.1180360939854082,0.0,13,binary mapping,ample
+Gulf,"TA, lag 0 / delay 0",hormuz_after_announcement,0.9700578523417446,0.7577112581810984,0.882,1.1274389768028854,0.0,15,binary mapping,ample
+Gulf,"TA, lag 0 / delay 0",full,0.9961205937055772,0.97938164318572,0.996,1.063307526733442,0.0,232,binary mapping,ample
+Gulf,SSA,normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,SSA,red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,SSA,red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,SSA,hormuz_onset,0.1945898869452971,0.0984174179288694,0.0,1.1763909794209064,0.0,13,binary mapping,ample
+Gulf,SSA,hormuz_after_announcement,0.8387742194518736,0.357665084522038,0.458,1.1163061714851896,0.0,15,binary mapping,ample
+Gulf,SSA,full,0.931474261440624,0.8875262921800249,0.204,1.0567250090972151,0.0,232,binary mapping,ample
+Gulf,TA,normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,TA,red_sea_onset,0.9982209603514484,0.9910260524739763,0.996,1.062606051332673,0.0,13,binary mapping,ample
+Gulf,TA,red_sea_established,1.0,1.0,1.0,1.0609680866126432,0.0,104,binary mapping,ample
+Gulf,TA,hormuz_onset,0.9900096089196608,0.9376353766327772,0.938,1.1167197245397746,0.0,13,binary mapping,ample
+Gulf,TA,hormuz_after_announcement,0.93199276004052,0.4883331541628759,0.826,1.1270607109584052,0.0,15,binary mapping,ample
+Gulf,TA,full,0.9926408693133646,0.9543139157279747,0.956,1.0631008989429525,0.0,232,binary mapping,ample
+Gulf,"SSA, lag 2 / delay 2",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"SSA, lag 2 / delay 2",red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,"SSA, lag 2 / delay 2",red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,"SSA, lag 2 / delay 2",hormuz_onset,0.1544221338602015,0.0983280218406192,0.0,1.208130906572863,0.0,13,binary mapping,ample
+Gulf,"SSA, lag 2 / delay 2",hormuz_after_announcement,0.5847183239950441,0.0741847574353368,0.108,1.110106492695887,0.0,15,binary mapping,ample
+Gulf,"SSA, lag 2 / delay 2",full,0.9096079484846534,0.8691305424289512,0.048,1.0581160069220694,0.0,232,binary mapping,ample
+Gulf,"TA, lag 2 / delay 2",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"TA, lag 2 / delay 2",red_sea_onset,0.9980034315237212,0.9869801507696868,0.996,1.0612983080641891,0.0,13,binary mapping,ample
+Gulf,"TA, lag 2 / delay 2",red_sea_established,1.0,1.0,1.0,1.0609680866126432,0.0,104,binary mapping,ample
+Gulf,"TA, lag 2 / delay 2",hormuz_onset,0.9407442347497464,0.5833593091708694,0.776,1.12086820495806,0.0,13,binary mapping,ample
+Gulf,"TA, lag 2 / delay 2",hormuz_after_announcement,0.8246947084813266,0.0442780741438819,0.638,1.1281836015485671,0.0,15,binary mapping,ample
+Gulf,"TA, lag 2 / delay 2",full,0.9813408350296564,0.91017820681027,0.854,1.0633777449304431,0.0,232,binary mapping,ample
+Gulf,"SSA, lag 4 / delay 4",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"SSA, lag 4 / delay 4",red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,"SSA, lag 4 / delay 4",red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,"SSA, lag 4 / delay 4",hormuz_onset,0.1527001290318397,0.0983280218406192,0.0,1.3020714884337825,0.0,13,binary mapping,ample
+Gulf,"SSA, lag 4 / delay 4",hormuz_after_announcement,0.0053388731964303,0.0,0.0,1.1088904375619573,0.0,15,binary mapping,ample
+Gulf,"SSA, lag 4 / delay 4",full,0.871572643601924,0.8603964170924685,0.0,1.0645081658335334,0.0,232,binary mapping,ample
+Gulf,"TA, lag 4 / delay 4",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"TA, lag 4 / delay 4",red_sea_onset,0.9975948391397188,0.9849617314260964,0.994,1.0578931088897867,0.0,13,binary mapping,ample
+Gulf,"TA, lag 4 / delay 4",red_sea_established,1.0,1.0,1.0,1.0609680866126432,0.0,104,binary mapping,ample
+Gulf,"TA, lag 4 / delay 4",hormuz_onset,0.4875753657229072,0.374689918826132,0.004,1.16121767369447,0.0,13,binary mapping,ample
+Gulf,"TA, lag 4 / delay 4",hormuz_after_announcement,0.085826173954632,0.0,0.03,1.1329234768719554,0.0,15,binary mapping,ample
+Gulf,"TA, lag 4 / delay 4",full,0.8978022225032203,0.8798339392580232,0.054,1.065920335861751,0.0,232,binary mapping,ample
+Gulf,TA (generic closure),normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,TA (generic closure),red_sea_onset,0.9982209603514484,0.9910260524739763,0.996,1.059511958428789,0.0,13,binary mapping,ample
+Gulf,TA (generic closure),red_sea_established,1.0,1.0,1.0,1.0559723854479093,0.0,104,binary mapping,ample
+Gulf,TA (generic closure),hormuz_onset,0.9697836035489296,0.7752261795363184,0.866,1.123773352964206,0.0,13,binary mapping,ample
+Gulf,TA (generic closure),hormuz_after_announcement,0.9687562365906548,0.8333387214589549,0.828,1.128698338209967,0.0,15,binary mapping,ample
+Gulf,TA (generic closure),full,0.9940682593773932,0.9746517207672248,0.994,1.0611377190644038,0.0,232,binary mapping,ample
+Gulf,"SSA, exit on announcement",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"SSA, exit on announcement",red_sea_onset,0.9968269727118813,0.9781085178150072,0.99,1.0441299082335835,0.0,13,binary mapping,ample
+Gulf,"SSA, exit on announcement",red_sea_established,0.9956854412873206,0.9845244209265002,1.0,1.0439974276464794,0.0,104,binary mapping,ample
+Gulf,"SSA, exit on announcement",hormuz_onset,0.1945898869452971,0.0984174179288694,0.0,1.1763909794209064,0.0,13,binary mapping,ample
+Gulf,"SSA, exit on announcement",hormuz_after_announcement,0.1548118715014165,0.0,0.0,1.2317774767107954,0.0,15,binary mapping,ample
+Gulf,"SSA, exit on announcement",full,0.8873315255912139,0.8617322276598869,0.002,1.064203489661956,0.0,232,binary mapping,ample
+Gulf,"TA, exit on announcement",normal,0.9957026515284896,0.9827974722172128,1.0,1.0440096981317974,0.0,84,binary mapping,ample
+Gulf,"TA, exit on announcement",red_sea_onset,0.9982209603514484,0.9910260524739763,0.996,1.062606051332673,0.0,13,binary mapping,ample
+Gulf,"TA, exit on announcement",red_sea_established,1.0,1.0,1.0,1.0609680866126432,0.0,104,binary mapping,ample
+Gulf,"TA, exit on announcement",hormuz_onset,0.9900096089196608,0.9376353766327772,0.938,1.1167197245397746,0.0,13,binary mapping,ample
+Gulf,"TA, exit on announcement",hormuz_after_announcement,0.3154758742376025,0.1210442193072582,0.0,1.2071330052547078,0.0,15,binary mapping,ample
+Gulf,"TA, exit on announcement",full,0.952872805338508,0.9347245029676003,0.716,1.0683132536431112,0.0,232,binary mapping,ample
+Europe,SN,normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,SN,red_sea_onset,0.7868399102505422,0.4072448220122058,0.322,1.0262566702325635,0.0,13,demand coefficient of variation 0.4,
+Europe,SN,red_sea_established,0.7580856102768744,0.6167990697285408,0.012,1.0180981373436435,0.0,104,demand coefficient of variation 0.4,
+Europe,SN,hormuz_onset,0.7660624010883402,0.3365856023434582,0.294,1.017596660643336,0.0,13,demand coefficient of variation 0.4,
+Europe,SN,hormuz_after_announcement,0.730284698114371,0.2871612452955497,0.224,1.0181457403064318,0.0,15,demand coefficient of variation 0.4,
+Europe,SN,full,0.8325520236979447,0.7526246676998456,0.002,1.0192080068869116,0.0,232,demand coefficient of variation 0.4,
+Europe,SR,normal,0.9983265908466148,0.988217464971555,0.998,1.0237576449062231,0.0,84,demand coefficient of variation 0.4,
+Europe,SR,red_sea_onset,0.9520846703195868,0.7134138288269357,0.754,1.0238904400059088,0.0,13,demand coefficient of variation 0.4,
+Europe,SR,red_sea_established,0.949883140958316,0.8770501786376208,0.57,1.0212883161133195,0.0,104,demand coefficient of variation 0.4,
+Europe,SR,hormuz_onset,0.9493615410058952,0.693703604982262,0.746,1.021415952026382,0.0,13,demand coefficient of variation 0.4,
+Europe,SR,hormuz_after_announcement,0.9375116945729844,0.6570209394532548,0.702,1.0212481324407288,0.0,15,demand coefficient of variation 0.4,
+Europe,SR,full,0.9653433351498903,0.9218788479646008,0.782,1.0222865872920932,0.0,232,demand coefficient of variation 0.4,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.8565149796518067,0.5207112388759259,0.448,1.0221625893463502,0.0,13,demand coefficient of variation 0.4,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.967218032618304,0.9076432960959182,0.756,1.022036983829563,0.0,104,demand coefficient of variation 0.4,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.9696141037487688,0.7984980703862542,0.838,1.0222331429566178,0.0,13,demand coefficient of variation 0.4,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.9629812677412148,0.7836856282909601,0.8,1.0222485299493536,0.0,15,demand coefficient of variation 0.4,
+Europe,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.9618276607113494,0.9182728092418512,0.746,1.021229068442459,0.0,232,demand coefficient of variation 0.4,
+Europe,ZD,normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,ZD,red_sea_onset,0.8815791500647326,0.5737106302860993,0.5,1.0225874468686855,0.0,13,demand coefficient of variation 0.4,
+Europe,ZD,red_sea_established,0.967101994717749,0.907772219341913,0.756,1.022000744925221,0.0,104,demand coefficient of variation 0.4,
+Europe,ZD,hormuz_onset,0.9704673369835488,0.8044864173918778,0.852,1.0223651787867607,0.0,13,demand coefficient of variation 0.4,
+Europe,ZD,hormuz_after_announcement,0.9636554019160908,0.7910083806280656,0.802,1.0222355945406243,0.0,15,demand coefficient of variation 0.4,
+Europe,ZD,full,0.9633675477775792,0.9208585164104072,0.77,1.0212426956728982,0.0,232,demand coefficient of variation 0.4,
+Europe,"SSA, lag 0 / delay 0",normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,"SSA, lag 0 / delay 0",red_sea_onset,0.8815791500647326,0.5737106302860993,0.5,1.0225874468686855,0.0,13,demand coefficient of variation 0.4,
+Europe,"SSA, lag 0 / delay 0",red_sea_established,0.967101994717749,0.907772219341913,0.756,1.022000744925221,0.0,104,demand coefficient of variation 0.4,
+Europe,"SSA, lag 0 / delay 0",hormuz_onset,0.9704673369835488,0.8044864173918778,0.852,1.0223651787867607,0.0,13,demand coefficient of variation 0.4,
+Europe,"SSA, lag 0 / delay 0",hormuz_after_announcement,0.9636554019160908,0.7910083806280656,0.802,1.0222355945406243,0.0,15,demand coefficient of variation 0.4,
+Europe,"SSA, lag 0 / delay 0",full,0.9633675477775792,0.9208585164104072,0.77,1.0212426956728982,0.0,232,demand coefficient of variation 0.4,
+Europe,"TA, lag 0 / delay 0",normal,0.992623089095138,0.9643567416069436,0.98,1.0217861540567583,0.0,84,demand coefficient of variation 0.4,
+Europe,"TA, lag 0 / delay 0",red_sea_onset,0.9375092339044256,0.6901517671730116,0.69,1.023561736239509,0.0,13,demand coefficient of variation 0.4,
+Europe,"TA, lag 0 / delay 0",red_sea_established,0.967101994717749,0.907772219341913,0.756,1.022000744925221,0.0,104,demand coefficient of variation 0.4,
+Europe,"TA, lag 0 / delay 0",hormuz_onset,0.9704673369835488,0.8044864173918778,0.852,1.0223651787867605,0.0,13,demand coefficient of variation 0.4,
+Europe,"TA, lag 0 / delay 0",hormuz_after_announcement,0.9636554019160908,0.7910083806280656,0.802,1.0222355945406243,0.0,15,demand coefficient of variation 0.4,
+Europe,"TA, lag 0 / delay 0",full,0.9735368789224036,0.9347577179728348,0.898,1.0219923307160563,0.0,232,demand coefficient of variation 0.4,
+Europe,SSA,normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,SSA,red_sea_onset,0.8565149796518067,0.5207112388759259,0.448,1.0221625893463502,0.0,13,demand coefficient of variation 0.4,
+Europe,SSA,red_sea_established,0.967218032618304,0.9076432960959182,0.756,1.022036983829563,0.0,104,demand coefficient of variation 0.4,
+Europe,SSA,hormuz_onset,0.9696141037487688,0.7984980703862542,0.838,1.0222331429566178,0.0,13,demand coefficient of variation 0.4,
+Europe,SSA,hormuz_after_announcement,0.9629812677412148,0.7836856282909601,0.8,1.0222485299493536,0.0,15,demand coefficient of variation 0.4,
+Europe,SSA,full,0.9618276607113494,0.9182728092418512,0.746,1.021229068442459,0.0,232,demand coefficient of variation 0.4,
+Europe,TA,normal,0.992623089095138,0.9643567416069436,0.98,1.0217861540567583,0.0,84,demand coefficient of variation 0.4,
+Europe,TA,red_sea_onset,0.9244246339510768,0.6542101777626381,0.646,1.0232355821674266,0.0,13,demand coefficient of variation 0.4,
+Europe,TA,red_sea_established,0.967218032618304,0.9076432960959182,0.756,1.022036983829563,0.0,104,demand coefficient of variation 0.4,
+Europe,TA,hormuz_onset,0.9696141037487688,0.7984980703862542,0.838,1.022233142956618,0.0,13,demand coefficient of variation 0.4,
+Europe,TA,hormuz_after_announcement,0.9629812677412148,0.7836856282909601,0.8,1.0222485299493538,0.0,15,demand coefficient of variation 0.4,
+Europe,TA,full,0.9727040815321918,0.933590823215417,0.888,1.0219838250160624,0.0,232,demand coefficient of variation 0.4,
+Europe,"SSA, lag 2 / delay 2",normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,"SSA, lag 2 / delay 2",red_sea_onset,0.835894206208298,0.4952958198906388,0.406,1.0217901750712093,0.0,13,demand coefficient of variation 0.4,
+Europe,"SSA, lag 2 / delay 2",red_sea_established,0.967647037060575,0.90888103492478,0.758,1.0220603865634812,0.0,104,demand coefficient of variation 0.4,
+Europe,"SSA, lag 2 / delay 2",hormuz_onset,0.9692081222484494,0.7957084996799854,0.84,1.022219915764028,0.0,13,demand coefficient of variation 0.4,
+Europe,"SSA, lag 2 / delay 2",hormuz_after_announcement,0.9618453705218104,0.7786707625001567,0.794,1.022190166446662,0.0,15,demand coefficient of variation 0.4,
+Europe,"SSA, lag 2 / delay 2",full,0.960702972318024,0.9177598836183808,0.724,1.0212124954035846,0.0,232,demand coefficient of variation 0.4,
+Europe,"TA, lag 2 / delay 2",normal,0.992623089095138,0.9643567416069436,0.98,1.0217861540567583,0.0,84,demand coefficient of variation 0.4,
+Europe,"TA, lag 2 / delay 2",red_sea_onset,0.9124528713368164,0.615085178572666,0.61,1.0229507061533154,0.0,13,demand coefficient of variation 0.4,
+Europe,"TA, lag 2 / delay 2",red_sea_established,0.967647037060575,0.90888103492478,0.758,1.0220603865634812,0.0,104,demand coefficient of variation 0.4,
+Europe,"TA, lag 2 / delay 2",hormuz_onset,0.9692081222484494,0.7957084996799854,0.84,1.022219915764028,0.0,13,demand coefficient of variation 0.4,
+Europe,"TA, lag 2 / delay 2",hormuz_after_announcement,0.9618453705218104,0.7786707625001567,0.794,1.022190166446662,0.0,15,demand coefficient of variation 0.4,
+Europe,"TA, lag 2 / delay 2",full,0.9720842647267282,0.932867131476446,0.886,1.0219718860935674,0.0,232,demand coefficient of variation 0.4,
+Europe,"SSA, lag 4 / delay 4",normal,0.9739871269512644,0.9157926032244236,0.842,1.0198541169116735,0.0,84,demand coefficient of variation 0.4,
+Europe,"SSA, lag 4 / delay 4",red_sea_onset,0.8025066393319978,0.4296799263545945,0.352,1.0244282665428066,0.0,13,demand coefficient of variation 0.4,
+Europe,"SSA, lag 4 / delay 4",red_sea_established,0.9675632984038044,0.9085046363601682,0.748,1.021584630804733,0.0,104,demand coefficient of variation 0.4,
+Europe,"SSA, lag 4 / delay 4",hormuz_onset,0.9693470340255176,0.800383730456877,0.842,1.0222104469465985,0.0,13,demand coefficient of variation 0.4,
+Europe,"SSA, lag 4 / delay 4",hormuz_after_announcement,0.9602403708338744,0.7683715782295623,0.79,1.0223507192995342,0.0,15,demand coefficient of variation 0.4,
+Europe,"SSA, lag 4 / delay 4",full,0.9585810585247032,0.9165826233226444,0.666,1.0211857516659073,0.0,232,demand coefficient of variation 0.4,
+Europe,"TA, lag 4 / delay 4",normal,0.992623089095138,0.9643567416069436,0.98,1.0217861540567583,0.0,84,demand coefficient of variation 0.4,
+Europe,"TA, lag 4 / delay 4",red_sea_onset,0.8962627658425777,0.5620178875022209,0.566,1.0241470373872676,0.0,13,demand coefficient of variation 0.4,
+Europe,"TA, lag 4 / delay 4",red_sea_established,0.9678372801455962,0.909669760174775,0.748,1.021808180046741,0.0,104,demand coefficient of variation 0.4,
+Europe,"TA, lag 4 / delay 4",hormuz_onset,0.9693470340255176,0.800383730456877,0.842,1.0222104469465982,0.0,13,demand coefficient of variation 0.4,
+Europe,"TA, lag 4 / delay 4",hormuz_after_announcement,0.9602403708338744,0.7683715782295625,0.79,1.022350719299534,0.0,15,demand coefficient of variation 0.4,
+Europe,"TA, lag 4 / delay 4",full,0.9711010454833106,0.9327682777553414,0.866,1.021955657344061,0.0,232,demand coefficient of variation 0.4,
+Europe,TA (generic closure),normal,0.9996795553208968,0.9997572396911544,1.0,1.0257454940999735,0.0,84,demand coefficient of variation 0.4,
+Europe,TA (generic closure),red_sea_onset,0.9862659833942968,0.9038300109178996,0.9,1.0251978794555543,0.0,13,demand coefficient of variation 0.4,
+Europe,TA (generic closure),red_sea_established,0.967218032618304,0.9076432960959182,0.756,1.0220382598367102,0.0,104,demand coefficient of variation 0.4,
+Europe,TA (generic closure),hormuz_onset,0.9696141037487688,0.7984980703862542,0.838,1.022233142956618,0.0,13,demand coefficient of variation 0.4,
+Europe,TA (generic closure),hormuz_after_announcement,0.9629812677412148,0.7836856282909601,0.8,1.0222485299493536,0.0,15,demand coefficient of variation 0.4,
+Europe,TA (generic closure),full,0.979106111746568,0.9453483795995862,0.938,1.0235215754251763,0.0,232,demand coefficient of variation 0.4,
+Gulf,SN,normal,0.9887122012373144,0.9620256563033364,0.98,1.0461177537661814,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,SN,red_sea_onset,0.9633428780856086,0.8318159528447078,0.74,1.0475225459736306,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,SN,red_sea_established,0.8752777273120501,0.7964860360699093,0.048,1.0493048394555622,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,SN,hormuz_onset,0.0204138073651341,0.0,0.0,1.3688365156243196,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,SN,hormuz_after_announcement,0.0,0.0,0.0,1.4367918088551792,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,SN,full,0.8050724493917849,0.7662200162507471,0.0,1.095688811314233,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,SR,normal,0.998333928693947,0.9901337846662474,1.0,1.0681946232917543,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,SR,red_sea_onset,0.9987028556914,0.9957544413589792,0.994,1.0704717326004576,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,SR,red_sea_established,0.9981402160095534,0.9901812887082646,1.0,1.068978127754011,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,SR,hormuz_onset,0.8473593280888276,0.3167800360601419,0.552,1.1303478164268834,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,SR,hormuz_after_announcement,0.6794840137116346,0.0061910686443378,0.324,1.1259078035833137,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,SR,full,0.9631874055223704,0.8867048592232816,0.7,1.076715423784918,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9596491537541464,0.9061328507314542,0.706,1.0448863057613735,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.97250843657306,0.8718894198410893,0.804,1.0467182890991986,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9608949353582904,0.9169082894267168,0.724,1.0486781753305303,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.2074779741659612,0.1199351171147063,0.0,1.2824065908220146,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.335438381988909,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.8438711801355009,0.8181860194897758,0.0,1.0823381178396536,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,ZD,normal,0.9597152453335398,0.9067929736626212,0.704,1.0449726987570664,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,ZD,red_sea_onset,0.9740872240532652,0.8731691830869205,0.818,1.0462975659121467,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,ZD,red_sea_established,0.962112167449839,0.9194343582042512,0.738,1.048965857338285,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,ZD,hormuz_onset,0.9705607049173652,0.8002587441323886,0.872,1.1262023784819744,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,ZD,hormuz_after_announcement,0.9394980279456128,0.5970852039400772,0.746,1.1314937487141905,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,ZD,full,0.959614325008272,0.925081984272333,0.762,1.0580279831035266,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 0 / delay 0",normal,0.9597152453335398,0.9067929736626212,0.704,1.0449726987570664,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 0 / delay 0",red_sea_onset,0.9740872240532652,0.8731691830869205,0.818,1.0462975659121467,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 0 / delay 0",red_sea_established,0.962112167449839,0.9194343582042512,0.738,1.048965857338285,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 0 / delay 0",hormuz_onset,0.9705607049173652,0.8002587441323886,0.872,1.1262023784819744,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 0 / delay 0",hormuz_after_announcement,0.9394980279456128,0.5970852039400772,0.746,1.1314937487141905,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 0 / delay 0",full,0.959614325008272,0.925081984272333,0.762,1.0580279831035266,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 0 / delay 0",normal,0.9597152453335398,0.9067929736626212,0.704,1.0449726987570664,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 0 / delay 0",red_sea_onset,0.9902172937984526,0.940209880629968,0.922,1.0649878929291212,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 0 / delay 0",red_sea_established,1.0,1.0,1.0,1.062070622049339,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 0 / delay 0",hormuz_onset,0.9806136092119564,0.8560487522289277,0.898,1.117201591612797,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 0 / delay 0",hormuz_after_announcement,0.8704631888077871,0.263887650177586,0.672,1.1294693979540738,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 0 / delay 0",full,0.9733346798559966,0.9230861883681596,0.864,1.0642188195633668,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,SSA,normal,0.9596491537541464,0.9061328507314542,0.706,1.0448863057613735,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,SSA,red_sea_onset,0.97250843657306,0.8718894198410893,0.804,1.0467182890991986,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,SSA,red_sea_established,0.9608949353582904,0.9169082894267168,0.724,1.0486781753305303,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,SSA,hormuz_onset,0.4599083268040561,0.1221480098041562,0.114,1.1608019472232922,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,SSA,hormuz_after_announcement,0.9005523834288842,0.4332669184771144,0.676,1.117211144147168,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,SSA,full,0.9230362689426396,0.8592552679915826,0.252,1.0587843739961005,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,TA,normal,0.9596491537541464,0.9061328507314542,0.706,1.0448863057613735,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,TA,red_sea_onset,0.9810222827426228,0.9013888116772962,0.85,1.0613400782556923,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,TA,red_sea_established,1.0,1.0,1.0,1.0620578263042213,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,TA,hormuz_onset,0.94607652405698,0.5889819208398621,0.806,1.117894008872612,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,TA,hormuz_after_announcement,0.8482343509621016,0.1417848740711481,0.634,1.128096828938273,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,TA,full,0.9684942670382696,0.9047356400056644,0.822,1.0639303766795687,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 2 / delay 2",normal,0.9596360905119772,0.9061328507314542,0.702,1.0446220166314395,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 2 / delay 2",red_sea_onset,0.9738035999002984,0.8721223690197145,0.804,1.0476414247427672,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 2 / delay 2",red_sea_established,0.9597054667924336,0.915646514421786,0.712,1.0483644066899558,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 2 / delay 2",hormuz_onset,0.3778905595696418,0.144070221084627,0.054,1.170307004259681,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 2 / delay 2",hormuz_after_announcement,0.831001011077949,0.2130473623042065,0.562,1.1157883945737812,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 2 / delay 2",full,0.9113308565742728,0.8433037121922003,0.154,1.058990026445311,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 2 / delay 2",normal,0.9596360905119772,0.9061328507314542,0.702,1.0446220166314395,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 2 / delay 2",red_sea_onset,0.978148661217489,0.8870209979542679,0.834,1.0614087123827003,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 2 / delay 2",red_sea_established,1.0,1.0,1.0,1.06205116078889,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 2 / delay 2",hormuz_onset,0.8878482635649284,0.3815139849614529,0.668,1.1235996870751646,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 2 / delay 2",hormuz_after_announcement,0.7936680408210555,0.0063996134040253,0.578,1.1278974526841523,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 2 / delay 2",full,0.9602098839163192,0.8759073732883197,0.734,1.064200620688481,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 4 / delay 4",normal,0.9596468753504456,0.9059305581580148,0.704,1.044614633864031,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 4 / delay 4",red_sea_onset,0.9698888050178286,0.859869916329989,0.784,1.048279354541195,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 4 / delay 4",red_sea_established,0.9585195126895024,0.9142303882122924,0.692,1.049656590268991,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 4 / delay 4",hormuz_onset,0.2409565164483491,0.1475974613530532,0.0,1.272584341953113,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 4 / delay 4",hormuz_after_announcement,0.1283949919139135,0.0,0.008,1.1144547587856304,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"SSA, lag 4 / delay 4",full,0.8523158076689142,0.8209058849619534,0.0,1.0658771261777251,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 4 / delay 4",normal,0.9596468753504456,0.9059305581580148,0.704,1.044614633864031,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 4 / delay 4",red_sea_onset,0.973191282594267,0.8720794898099733,0.798,1.0602123089037037,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 4 / delay 4",red_sea_established,1.0,1.0,1.0,1.0621790401084568,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 4 / delay 4",hormuz_onset,0.5410188943716225,0.3375697682968195,0.064,1.1598398119771167,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 4 / delay 4",hormuz_after_announcement,0.2607300968178734,0.0,0.09,1.1328931684317818,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"TA, lag 4 / delay 4",full,0.897921304103151,0.8554882503669409,0.134,1.0668380344748838,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,TA (generic closure),normal,0.9596491537541464,0.9061328507314542,0.706,1.0448863057613735,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,TA (generic closure),red_sea_onset,0.9810222827426228,0.9013888116772962,0.85,1.0605545261552545,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,TA (generic closure),red_sea_established,1.0,1.0,1.0,1.060590123528734,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,TA (generic closure),hormuz_onset,0.9713937813192756,0.7949656821433445,0.88,1.119262671303035,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,TA (generic closure),hormuz_after_announcement,0.9072113060365924,0.5262496247021178,0.648,1.1255464197286822,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,TA (generic closure),full,0.975095747010447,0.9418840137822386,0.906,1.063054463151258,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"SSA, exit on announcement",normal,0.9596491537541464,0.9061328507314542,0.706,1.0448863057613735,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"SSA, exit on announcement",red_sea_onset,0.97250843657306,0.8718894198410893,0.804,1.0467182890991986,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, exit on announcement",red_sea_established,0.9608949353582904,0.9169082894267168,0.724,1.0486781753305303,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"SSA, exit on announcement",hormuz_onset,0.4599083268040561,0.1221480098041562,0.114,1.1608019472232922,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"SSA, exit on announcement",hormuz_after_announcement,0.2652593350460362,0.0,0.0,1.2314542866657776,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"SSA, exit on announcement",full,0.8820955478136228,0.82877515655909,0.002,1.066208858666591,0.0,232,demand coefficient of variation 0.4,ample
+Gulf,"TA, exit on announcement",normal,0.9596491537541464,0.9061328507314542,0.706,1.0448863057613735,0.0,84,demand coefficient of variation 0.4,ample
+Gulf,"TA, exit on announcement",red_sea_onset,0.9810222827426228,0.9013888116772962,0.85,1.0613400782556923,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, exit on announcement",red_sea_established,1.0,1.0,1.0,1.0620578263042213,0.0,104,demand coefficient of variation 0.4,ample
+Gulf,"TA, exit on announcement",hormuz_onset,0.94607652405698,0.5889819208398621,0.806,1.117894008872612,0.0,13,demand coefficient of variation 0.4,ample
+Gulf,"TA, exit on announcement",hormuz_after_announcement,0.3169574227530822,0.0,0.0,1.2094831130088488,0.0,15,demand coefficient of variation 0.4,ample
+Gulf,"TA, exit on announcement",full,0.9344478477370168,0.888211289659769,0.236,1.0692626376750132,0.0,232,demand coefficient of variation 0.4,ample

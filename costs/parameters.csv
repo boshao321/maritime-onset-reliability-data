@@ -1,0 +1,18 @@
+parameter,value,evidence_class,sources,conversion_assumptions
+"Mapping bounds s1, s0","0.75, 0.05 (s1 = 0.69 for Ukraine)",s1 calibrated from normal-regime 5th percentiles; s0 assumed,IMF PortWatch,
+Demand,"Normal, mean 1, coefficient of variation 0.25, truncated at 0",Assumed,,
+Europe main-route freight,0.0137,Calibrated,S10,"A1, A2, A4"
+Europe diversion surcharge,0.0037,Calibrated,S01,"A1, A5"
+Gulf main-route freight,0.04,Assumed,,
+Gulf diversion surcharge (Hormuz),0.0330,Calibrated,"S05, S06, S07","A1, A3, A6"
+"Gulf storage after 2 free weeks, per week",0.0032,Calibrated,"S05, S07","A1, A7"
+Gulf land-bridge fee,0.03,Assumed (no published rate),,
+"Gulf second channel: freight, diversion","0.07, 0.05",Assumed,,
+"Ukraine routes: freight, diversion, land bridge, storage; Poland freight","0.05, 0.06, 0.04, 0.007; 0.09",Assumed,S13,
+"Lead times (weeks): Europe, Gulf, Jeddah, Odesa, Poland","5, 3, 4, 6, 7",Assumed,,
+Emergency procurement price; lead time,1.30; 1 to 2 weeks,Assumed,,
+"Reservation fees: emergency, land bridge, second channel","0.03, 0.02, 0.02",Assumed,,
+Holding cost per unit-week; order cap,0.004; 3,Assumed,,
+"Alternative capacity: ample, scarce","up to 1.0, up to 0.25",Assumed; scarce setting motivated by port data,,
+Signal lag; contracting delay,1; 2 weeks,Assumed (grids 0 to 4 weeks),,
+"Cargo value per TEU, V","54,500 USD (27,250 and 109,000 in sensitivity)",Assumed,S08,A1

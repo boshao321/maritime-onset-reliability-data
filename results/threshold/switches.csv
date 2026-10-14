@@ -1,0 +1,12 @@
+condition,last_old,first_new,plan_old,plan_new,cls_old,cls_new,changed,kind,fit_gap_at_first_new_pct,crossing_aux,crossing_checked,n_near_old,n_near_new
+central,0.0435,0.044,"[1.5, 0.0, 0.0, 1.0, 0.25]","[2.0, 0.0, 0.0, 0.5, 0.75]",land bridge,mixed,"SS,b,j",dominant channel,0.0237283244822936,0.0435395727036674,True,15,15
+central,0.0775,0.078,"[2.0, 0.0, 0.0, 0.5, 0.75]","[1.0, 0.5, 1.5, 0.0, 1.0]",mixed,second channel,"SS,e,th,b,j",dominant channel,0.0148575808050951,0.0778181600422528,True,7,7
+st_x0.5,0.042,0.0425,"[1.5, 0.0, 0.0, 1.0, 0.25]","[2.0, 0.0, 0.0, 0.5, 0.75]",land bridge,mixed,"SS,b,j",dominant channel,0.0374159945767155,0.0424377041387008,True,15,15
+st_x0.5,0.074,0.0745,"[2.0, 0.0, 0.0, 0.5, 0.75]","[1.5, 0.5, 1.5, 0.0, 1.0]",mixed,second channel,"SS,e,th,b,j",dominant channel,0.0181123920993016,0.0743997216492769,True,7,7
+st_x2,0.045,0.0455,"[1.5, 0.0, 0.0, 1.0, 0.25]","[2.0, 0.0, 0.0, 0.75, 0.5]",land bridge,land bridge,"SS,b,j",reservation (b or j),0.0361283623906357,0.0452869179374487,True,15,15
+st_x2,0.046,0.0465,"[2.0, 0.0, 0.0, 0.75, 0.5]","[2.0, 0.0, 0.0, 0.5, 0.75]",land bridge,mixed,"b,j",dominant channel,0.0246919018150332,0.046127076502736,True,15,15
+st_x2,0.0845,0.085,"[2.0, 0.0, 0.0, 0.5, 0.75]","[1.0, 0.5, 1.5, 0.0, 1.0]",mixed,second channel,"SS,e,th,b,j",dominant channel,0.0063484343015017,0.0846032750057144,True,6,6
+lb_x0.5,0.059,0.0595,"[1.5, 0.0, 0.0, 1.0, 0.25]","[2.0, 0.0, 0.0, 0.5, 0.75]",land bridge,mixed,"SS,b,j",dominant channel,0.0244804689649441,0.0590617886151725,True,15,15
+lb_x0.5,0.094,0.0945,"[2.0, 0.0, 0.0, 0.5, 0.75]","[1.0, 0.5, 1.5, 0.0, 1.0]",mixed,second channel,"SS,e,th,b,j",dominant channel,0.0084790997716243,0.0941567928583247,True,7,7
+lb_x1.5,0.028,0.0285,"[1.5, 0.0, 0.0, 1.0, 0.25]","[2.0, 0.0, 0.0, 0.5, 0.75]",land bridge,mixed,"SS,b,j",dominant channel,0.0229755994790336,0.0280173567921623,True,15,15
+lb_x1.5,0.061,0.0615,"[2.0, 0.0, 0.0, 0.5, 0.75]","[1.0, 0.5, 1.5, 0.0, 1.0]",mixed,second channel,"SS,e,th,b,j",dominant channel,0.0212457268001925,0.0614795272261809,True,7,7

@@ -1,0 +1,37 @@
+metric,scenario,policy,value
+gap_total_pct,base,DP reference policy,0.0
+gap_total_pct,bridge_cap_2,DP reference policy,0.0
+gap_total_pct,hazard_0.02,DP reference policy,0.0
+gap_total_pct,persistence_0.90,DP reference policy,0.0
+gap_total_pct,base,Transition-aware plan,0.251852836969301
+gap_total_pct,bridge_cap_2,Transition-aware plan,0.0861075262933137
+gap_total_pct,hazard_0.02,Transition-aware plan,0.404052760203011
+gap_total_pct,persistence_0.90,Transition-aware plan,0.0866394756210877
+gap_total_pct,base,Steady-state plans,0.2483081365484933
+gap_total_pct,bridge_cap_2,Steady-state plans,9.543197962057349
+gap_total_pct,hazard_0.02,Steady-state plans,0.6192320798372638
+gap_total_pct,persistence_0.90,Steady-state plans,0.0866394756210877
+gap_op_pct,base,DP reference policy,0.0
+gap_op_pct,bridge_cap_2,DP reference policy,0.0
+gap_op_pct,hazard_0.02,DP reference policy,0.0
+gap_op_pct,persistence_0.90,DP reference policy,0.0
+gap_op_pct,base,Transition-aware plan,7.028959590507244
+gap_op_pct,bridge_cap_2,Transition-aware plan,1.2878606212227357
+gap_op_pct,hazard_0.02,Transition-aware plan,8.539224313799417
+gap_op_pct,persistence_0.90,Transition-aware plan,3.635753562845399
+gap_op_pct,base,Steady-state plans,6.930030563865593
+gap_op_pct,bridge_cap_2,Steady-state plans,142.73210931645434
+gap_op_pct,hazard_0.02,Steady-state plans,13.086809824969835
+gap_op_pct,persistence_0.90,Steady-state plans,3.635753562845399
+fill_onset13,base,DP reference policy,0.9344022953483648
+fill_onset13,bridge_cap_2,DP reference policy,0.9966102985984155
+fill_onset13,hazard_0.02,DP reference policy,0.9729906460076077
+fill_onset13,persistence_0.90,DP reference policy,0.92522143932931
+fill_onset13,base,Transition-aware plan,0.9555657119642494
+fill_onset13,bridge_cap_2,Transition-aware plan,0.9957089173268332
+fill_onset13,hazard_0.02,Transition-aware plan,0.9534533217438458
+fill_onset13,persistence_0.90,Transition-aware plan,0.9154475654839016
+fill_onset13,base,Steady-state plans,0.907119642494414
+fill_onset13,bridge_cap_2,Steady-state plans,0.5823811700182815
+fill_onset13,hazard_0.02,Steady-state plans,0.9058460458848016
+fill_onset13,persistence_0.90,Steady-state plans,0.9154475654839016

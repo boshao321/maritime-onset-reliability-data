@@ -1,0 +1,6 @@
+regime,first_week,last_week,weeks,description,definition
+PRE,2019-01-07,2021-12-27,156,pre-reference (excluded),"Weeks before 3 January 2022, excluded from scenario generation"
+N,2022-01-03,2023-11-27,100,N (normal),Reference period before the Red Sea crisis
+RS_ONSET,2023-12-04,2023-12-25,4,RS onset block,First four weeks of the Red Sea crisis from the week of 4 December 2023
+RS,2024-01-01,2026-02-23,113,RS (established Red Sea crisis),Established Red Sea crisis
+RSH,2026-03-02,2026-09-28,31,RSH (Red Sea and Hormuz),"From the week of 2 March 2026, the first full week after the outbreak of war on 28 February 2026"

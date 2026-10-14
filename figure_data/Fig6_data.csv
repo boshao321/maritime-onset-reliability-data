@@ -1,0 +1,40 @@
+panel,case,policy,lag_delay,fill_13wk,setting,R_on,lo,hi
+a,Ukraine,Transition-aware,0/0,0.9926930808790556,,,,
+a,Ukraine,Transition-aware,1/2,0.9951730487788936,,,,
+a,Ukraine,Transition-aware,2/2,0.957351635011836,,,,
+a,Ukraine,Transition-aware,4/4,0.5831769142804435,,,,
+a,Ukraine,Steady-state adaptive,0/0,0.4300434048128362,,,,
+a,Ukraine,Steady-state adaptive,1/2,0.3596210303570998,,,,
+a,Ukraine,Steady-state adaptive,2/2,0.2460207293737387,,,,
+a,Ukraine,Steady-state adaptive,4/4,0.2472309082748627,,,,
+a,Gulf,Transition-aware,0/0,0.9986917510866892,,,,
+a,Gulf,Transition-aware,1/2,0.9952110936876178,,,,
+a,Gulf,Transition-aware,2/2,0.9676547306341836,,,,
+a,Gulf,Transition-aware,4/4,0.5095105804378549,,,,
+a,Gulf,Steady-state adaptive,0/0,0.9972730363182264,,,,
+a,Gulf,Steady-state adaptive,1/2,0.4066121983913952,,,,
+a,Gulf,Steady-state adaptive,2/2,0.3058423181195353,,,,
+a,Gulf,Steady-state adaptive,4/4,0.2419508842658636,,,,
+a,Europe,Transition-aware,0/0,0.9803460327812018,,,,
+a,Europe,Transition-aware,1/2,0.9731815942223592,,,,
+a,Europe,Transition-aware,2/2,0.9660546325474766,,,,
+a,Europe,Transition-aware,4/4,0.9577567632321864,,,,
+a,Europe,Steady-state adaptive,0/0,0.9349691213636272,,,,
+a,Europe,Steady-state adaptive,1/2,0.9130479417349802,,,,
+a,Europe,Steady-state adaptive,2/2,0.8945779401903365,,,,
+a,Europe,Steady-state adaptive,4/4,0.867186069660689,,,,
+b,,Transition-aware,,,Ukraine ample,0.889,0.8680219921790586,0.9070007896723912
+b,,Steady-state adaptive,,,Ukraine ample,0.0,2.1684043449710093e-19,0.003826758545694
+b,,Static robust (ex post),,,Ukraine ample,0.961,0.9471306894556356,0.9713410391652344
+b,,Transition-aware,,,Ukraine scarce,0.937,0.9202050761487912,0.9504503368822722
+b,,Steady-state adaptive,,,Ukraine scarce,0.035,0.0252722629524955,0.0482866224949999
+b,,Static robust (ex post),,,Ukraine scarce,0.963,0.9494176023951936,0.9730388191914936
+b,,Transition-aware,,,Gulf scarce,0.983,0.9729440410629592,0.9893593101819004
+b,,Steady-state adaptive,,,Gulf scarce,0.034,0.02443134859985,0.0471351903647368
+b,,Static robust (ex post),,,Gulf scarce,0.67,0.6402544423963843,0.6984444596980799
+b,,Transition-aware,,,Gulf ample,0.91,0.8906582071915293,0.9262038508010016
+b,,Steady-state adaptive,,,Gulf ample,0.034,0.02443134859985,0.0471351903647368
+b,,Static robust (ex post),,,Gulf ample,0.659,0.6290604088527241,0.6877226819297453
+b,,Transition-aware,,,Europe,0.941,0.924639097085196,0.9539857018775016
+b,,Steady-state adaptive,,,Europe,0.838,0.8138772229118192,0.8595358883112916
+b,,Static robust (ex post),,,Europe,0.961,0.9471306894556356,0.9713410391652344
