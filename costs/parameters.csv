@@ -6,7 +6,7 @@ Europe diversion surcharge,0.0037,Calibrated,S01,"A1, A5"
 Gulf main-route freight,0.04,Assumed,,
 Gulf diversion surcharge (Hormuz),0.0330,Calibrated,"S05, S06, S07","A1, A3, A6"
 "Gulf storage after 2 free weeks, per week",0.0032,Calibrated,"S05, S07","A1, A7"
-Gulf land-bridge fee,0.03,Assumed (no published rate),,
+Gulf land bridge fee,0.03,Assumed (no published rate),,
 "Gulf second channel: freight, diversion","0.07, 0.05",Assumed,,
 "Ukraine routes: freight, diversion, land bridge, storage; Poland freight","0.05, 0.06, 0.04, 0.007; 0.09",Assumed,S13,
 "Lead times (weeks): Europe, Gulf, Jeddah, Odesa, Poland","5, 3, 4, 6, 7",Assumed,,

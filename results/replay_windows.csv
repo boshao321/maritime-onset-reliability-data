@@ -11,12 +11,12 @@ Gulf,SR,red_sea_established,0.9999991766682051,1.0,1.0,1.0765955404954626,0.0003
 Gulf,SR,hormuz_onset,0.9743888357011417,0.837680426408749,0.862,1.2736050113193853,0.6502849111023744,13.0,scarce
 Gulf,SR,hormuz_after_announcement,0.8503715051636018,0.2858241050005183,0.578,1.287180080870162,0.7250736323141732,15.0,scarce
 Gulf,SR,full,0.98710833422364,0.9404933807522304,0.918,1.1036617335251422,0.0928893245313639,232.0,scarce
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9956292103365236,0.9831608325633556,1.0,1.0447134710619932,0.0,84.0,scarce
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9960428342350232,0.9727985988165314,0.982,1.046925365767121,0.0,13.0,scarce
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.995167744884151,0.9827625345504868,1.0,1.0486227659320406,0.0,104.0,scarce
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.2061730658778515,0.1483971117884202,0.0,1.282537236414787,0.0,13.0,scarce
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.3352720163064578,0.0,15.0,scarce
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.8739323243228945,0.8627300138454588,0.0,1.0822928246647652,0.0,232.0,scarce
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",normal,0.9956292103365236,0.9831608325633556,1.0,1.0447134710619932,0.0,84.0,scarce
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9960428342350232,0.9727985988165314,0.982,1.046925365767121,0.0,13.0,scarce
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",red_sea_established,0.995167744884151,0.9827625345504868,1.0,1.0486227659320406,0.0,104.0,scarce
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.2061730658778515,0.1483971117884202,0.0,1.282537236414787,0.0,13.0,scarce
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.3352720163064578,0.0,15.0,scarce
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",full,0.8739323243228945,0.8627300138454588,0.0,1.0822928246647652,0.0,232.0,scarce
 Gulf,ZD,normal,0.9956730533240472,0.9827974722172128,1.0,1.044799675144047,0.0,84.0,scarce
 Gulf,ZD,red_sea_onset,0.9965126601981849,0.9748139932556596,0.99,1.0464802632328842,0.0,13.0,scarce
 Gulf,ZD,red_sea_established,0.9957409184908708,0.9837693376549,1.0,1.0489251334091392,0.0,104.0,scarce
@@ -95,12 +95,12 @@ Europe,SR,red_sea_established,0.9941708667471008,0.973692393486436,0.996,1.02113
 Europe,SR,hormuz_onset,0.9941208618894608,0.9576827871411574,0.962,1.021152737342321,0.0,13.0,
 Europe,SR,hormuz_after_announcement,0.9889075698678907,0.9316867167570144,0.934,1.0210114225579376,0.0,15.0,
 Europe,SR,full,0.99560524411143,0.9835476796823012,1.0,1.022119526435727,0.0,232.0,
-Europe,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84.0,
-Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9130479417349802,0.6675671734596509,0.558,1.0217188453230437,0.0,13.0,
-Europe,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9978063615773782,0.9881644518517344,0.998,1.021893585872884,0.0,104.0,
-Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.9983439113522312,0.9952208554678676,0.992,1.0221409572071305,0.0,13.0,
-Europe,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.9960829368187416,0.985315150127275,0.972,1.0222451109342896,0.0,15.0,
-Europe,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.9928976099129382,0.9779125045382994,1.0,1.0211164417443377,0.0,232.0,
+Europe,"Signal aware ordering only (normal-regime plan, no switching)",normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84.0,
+Europe,"Signal aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9130479417349802,0.6675671734596509,0.558,1.0217188453230437,0.0,13.0,
+Europe,"Signal aware ordering only (normal-regime plan, no switching)",red_sea_established,0.9978063615773782,0.9881644518517344,0.998,1.021893585872884,0.0,104.0,
+Europe,"Signal aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.9983439113522312,0.9952208554678676,0.992,1.0221409572071305,0.0,13.0,
+Europe,"Signal aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.9960829368187416,0.985315150127275,0.972,1.0222451109342896,0.0,15.0,
+Europe,"Signal aware ordering only (normal-regime plan, no switching)",full,0.9928976099129382,0.9779125045382994,1.0,1.0211164417443377,0.0,232.0,
 Europe,ZD,normal,0.9985325240028856,0.9905875753652296,1.0,1.0197493768529673,0.0,84.0,
 Europe,ZD,red_sea_onset,0.9349691213636272,0.733373937466634,0.614,1.0222004204634956,0.0,13.0,
 Europe,ZD,red_sea_established,0.9977778600897316,0.9878284881182288,0.998,1.0218595830975774,0.0,104.0,
@@ -173,12 +173,12 @@ Gulf,SR,red_sea_established,0.9999993379682,1.0,1.0,1.0690062904747504,0.0,104.0
 Gulf,SR,hormuz_onset,0.9521754399884846,0.6766688506274978,0.79,1.1253113268809494,0.0,13.0,ample
 Gulf,SR,hormuz_after_announcement,0.8846731143223792,0.4018839180985148,0.65,1.124220190736864,0.0,15.0,ample
 Gulf,SR,full,0.9876061393941854,0.9418376233392536,0.938,1.0762356471327448,0.0,232.0,ample
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",normal,0.9956292103365236,0.9831608325633556,1.0,1.0447134710619932,0.0,84.0,ample
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9960428342350232,0.9727985988165314,0.982,1.046925365767121,0.0,13.0,ample
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",red_sea_established,0.995167744884151,0.9827625345504868,1.0,1.0486227659320406,0.0,104.0,ample
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.2061730658778515,0.1483971117884202,0.0,1.282537236414787,0.0,13.0,ample
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.3352720163064578,0.0,15.0,ample
-Gulf,"Signal-aware ordering only (normal-regime plan, no switching)",full,0.8739323243228945,0.8627300138454588,0.0,1.0822928246647652,0.0,232.0,ample
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",normal,0.9956292103365236,0.9831608325633556,1.0,1.0447134710619932,0.0,84.0,ample
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",red_sea_onset,0.9960428342350232,0.9727985988165314,0.982,1.046925365767121,0.0,13.0,ample
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",red_sea_established,0.995167744884151,0.9827625345504868,1.0,1.0486227659320406,0.0,104.0,ample
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",hormuz_onset,0.2061730658778515,0.1483971117884202,0.0,1.282537236414787,0.0,13.0,ample
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",hormuz_after_announcement,0.0,0.0,0.0,1.3352720163064578,0.0,15.0,ample
+Gulf,"Signal aware ordering only (normal-regime plan, no switching)",full,0.8739323243228945,0.8627300138454588,0.0,1.0822928246647652,0.0,232.0,ample
 Gulf,ZD,normal,0.9956730533240472,0.9827974722172128,1.0,1.044799675144047,0.0,84.0,ample
 Gulf,ZD,red_sea_onset,0.9965126601981849,0.9748139932556596,0.99,1.0464802632328842,0.0,13.0,ample
 Gulf,ZD,red_sea_established,0.9957409184908708,0.9837693376549,1.0,1.0489251334091392,0.0,104.0,ample
