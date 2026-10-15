@@ -1,4 +1,4 @@
-# Data for "Designing inventory and capacity reservations for maritime disruption onset"
+# Data for "Reroute, wait or stock up? Designing inventory and capacity reservations for maritime disruption onset"
 
 This repository contains the data behind the article, from the retrieved traffic observations to the numbers shown in every table and figure. It contains data only. Quantities are in units of mean weekly demand and prices in units of the purchase price of one quantity unit unless a column name states another unit.
 
