@@ -14,13 +14,13 @@ Please cite the article (reference to be added on publication) and, for the traf
 | `derived/` | Weekly series, reference medians and regime definitions used to build the disruption scenarios |
 | `costs/` | Cost parameters, public sources, Drewry World Container Index values and conversion assumptions |
 | `results/` | Designs, new path tests, historical replays, simple rules, sensitivity runs, relative cost analysis, optimizer comparison and the reduced DP reference |
-| `figure_data/` | The plotted values of Figs. 1 to 9 and Supplementary Figs. S1 to S4 |
+| `figure_data/` | The plotted values of Figs. 1 to 8 and Supplementary Figs. S1 to S4 |
 
 ## Where the article's numbers come from
 
 | Article item | File |
 |---|---|
-| Fig. 9, Section 4.1 | `derived/weekly_chokepoints.csv`, `derived/weekly_ukraine_ports.csv`, `derived/weekly_gulf_port_calls.csv`, `derived/gulf_port_comparison.csv` |
+| Fig. 8, Section 4.1 | `derived/weekly_chokepoints.csv`, `derived/weekly_ukraine_ports.csv`, `derived/weekly_gulf_port_calls.csv`, `derived/gulf_port_comparison.csv` |
 | Table 2 | `costs/parameters.csv`, `costs/calibrated_parameters_by_cargo_value.csv`, `costs/sources.csv`, `costs/wci_assessments.csv`, `costs/conversion_assumptions.csv` |
 | Table 3, SI Section S11 | `results/new_path_tests.csv` |
 | Table 4, Fig. 1, Fig. 4, SI replay tables, SI Fig. S2 | `results/replay_windows.csv`, `results/replay_weekly.csv` |
@@ -30,7 +30,7 @@ Please cite the article (reference to be added on publication) and, for the traf
 | Section 2.6, SI Section S4.1 (Tables S12 and S13) | `results/cargo_value_comparison.csv`, `results/simple_rule_selections.csv`, `results/transition_aware_runs.csv` |
 | Section 2.7, Table 6, Figs. 6 and 7, SI Section S2, SI Fig. S1 | `results/threshold/` |
 | Section 2.8, SI Section S7, SI Fig. S3 | `results/optimizer_benchmark_summary.csv`, `results/optimizer_benchmark_curves.csv` |
-| Section 2.8, Fig. 8, SI Section S8 | `results/dp_reference.csv` |
+| Section 2.8, Table 7, SI Section S8 | `results/dp_reference.csv` |
 | Discussion, mapping and demand checks | `results/replay_windows_robustness.csv` |
 | Steady state plans of all policies, SI Section S3 | `results/steady_state_designs.csv` |
 
